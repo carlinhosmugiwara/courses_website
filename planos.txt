@@ -1,0 +1,10 @@
+Begin. R$ 300
+Advance. R$ 500
+Plus. R$ 1.000
+Mega R$ 3.000
+Top. R$ 7.000
+Premiere. R$ 10.000
+Premium  R$ 15.000
+Hiper. R$ 25.000
+Rocket  R$ 35.000
+Universe. R$ 50.000
